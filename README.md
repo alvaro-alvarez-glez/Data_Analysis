@@ -6,5 +6,5 @@ These notebooks just show my solution to those projects.
 Data Clean Projects: 
 * [Hackers News Report-Python](https://github.com/alvaro-alvarez-glez/projects/blob/master/Hackers%20News%20Project.ipynb)
 
-Data Analysise Projects:
+Data Analysis Projects:
 * [CIA World Factbook-SQL](https://github.com/alvaro-alvarez-glez/Portfolio/blob/master/CIA%20World%20Factbook.ipynb)
