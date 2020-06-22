@@ -8,3 +8,5 @@ Data Clean Projects:
 
 Data Analysis Projects:
 * [CIA World Factbook-SQL](https://github.com/alvaro-alvarez-glez/Portfolio/blob/master/CIA%20World%20Factbook.ipynb)
+* Project Pandas / Numpy
+
